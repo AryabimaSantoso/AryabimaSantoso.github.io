@@ -1,14 +1,13 @@
 #navbar {
-  background-color: rgba(75, 75, 75, 0.3); /* warna gelap transparan */
-  backdrop-filter: blur(10px); /* efek blur kaca */
-  -webkit-backdrop-filter: blur(10px); /* untuk Safari */
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* opsional: bayangan lembut */
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* garis bawah halus */
+  background-color: rgba(75, 75, 75, 0.3);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .navbar-nav .nav-link {
   color: white !important;
-  font-size: 12px; /* lebih kecil dari default */
+  font-size: 12px;
 }
 
 
